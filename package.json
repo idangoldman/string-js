@@ -1,12 +1,15 @@
 {
-  "name": "StringJS",
+  "name": "String-js",
   "version": "1.0.0",
-  "description": "",
+  "description": "helps us write better",
   "main": "index.js",
   "scripts": {
     "test": ""
   },
   "keywords": [],
   "author": "Idan Goldman",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
 }
