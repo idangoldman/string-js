@@ -1327,6 +1327,11 @@ constants-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/constants-browserify/-/constants-browserify-1.0.0.tgz#c20b96d8c617748aaf1c16021760cd27fcb8cb75"
   integrity sha1-wguW2MYXdIqvHBYCF2DNJ/y4y3U=
 
+consts@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/consts/-/consts-0.0.2.tgz#b5995951a89488612272defffa0ab0d042e92dde"
+  integrity sha1-tZlZUaiUiGEict7/+gqw0ELpLd4=
+
 convert-source-map@^1.1.0, convert-source-map@^1.5.1:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.6.0.tgz#51b537a8c43e0f04dec1993bffcdd504e758ac20"

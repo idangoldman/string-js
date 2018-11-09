@@ -4,12 +4,21 @@
   "description": "helps us write better",
   "main": "index.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "keywords": [],
   "author": "Idan Goldman",
   "license": "MIT",
   "devDependencies": {
-    "parcel-bundler": "^1.10.3"
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "parcel-bundler": "^1.10.3",
+    "parcel-plugin-eslint": "^1.0.4",
+    "sass": "^1.14.3"
+  },
+  "dependencies": {
+    "consts": "^0.0.2"
   }
 }
