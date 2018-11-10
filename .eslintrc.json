@@ -1,7 +1,6 @@
 {
     "extends": "airbnb-base",
-    "rule": {
-      "no-extend-native": ["error", { "exceptions": ["Object"] }]
-
+    "rules": {
+      "no-extend-native": [ "error", { "exceptions": ["Object"] } ]
     }
 }
